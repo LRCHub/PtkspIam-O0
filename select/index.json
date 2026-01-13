@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "シャイノグラフィ -25 colors-",
+  "base_artist": "SHINY COLORS",
+  "createdAt": "2026-01-13T16:24:06.753046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャイノグラフィ - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/01_シャイノグラフィ_-_2023_Version_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャイノグラフィ",
+      "artist": "ストレイライト",
+      "has_synced": false,
+      "path": "select/02_シャイノグラフィ_ストレイライト.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シャイノグラフィ -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/03_シャイノグラフィ_-25_colors-_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャイノグラフィ",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/04_シャイノグラフィ_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャイノグラフィ - 2023 Ver.",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/05_シャイノグラフィ_-_2023_Ver._シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シャイノグラフィ (2023 Version)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/06_シャイノグラフィ_(2023_Version)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シャイノグラフィ (ストレイライト Ver.)",
+      "artist": "ストレイライト",
+      "has_synced": false,
+      "path": "select/07_シャイノグラフィ_(ストレイライト_Ver.)_ストレイライト.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シャイノグラフィ (ノクチル Ver.)",
+      "artist": "283PRO",
+      "has_synced": false,
+      "path": "select/08_シャイノグラフィ_(ノクチル_Ver.)_283PRO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シャイノグラフィ (ノクチルVer.)",
+      "artist": "ノクチル",
+      "has_synced": false,
+      "path": "select/09_シャイノグラフィ_(ノクチルVer.)_ノクチル.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シャイノグラフィ (ストレイライトVer.)",
+      "artist": "ストレイライト",
+      "has_synced": false,
+      "path": "select/10_シャイノグラフィ_(ストレイライトVer.)_ストレイライト.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シャイノグラフィ (ノクチル Ver.)",
+      "artist": "ノクチル",
+      "has_synced": false,
+      "path": "select/11_シャイノグラフィ_(ノクチル_Ver.)_ノクチル.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャイノグラフィ",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_シャイノグラフィ_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シャイノグラフィ",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_02_シャイノグラフィ_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シャイノグラフィ",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_03_シャイノグラフィ_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "シャイノグラフィ",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_04_シャイノグラフィ_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "シャイノグラフィ -28 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_05_シャイノグラフィ_-28_colors-_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "シャイノグラフィ -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_06_シャイノグラフィ_-25_colors-_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "シャイノグラフィ - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_07_シャイノグラフィ_-_2023_Version_シャイニーカラーズ.txt"
+    }
+  ]
+}
